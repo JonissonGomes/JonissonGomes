@@ -1,8 +1,8 @@
 ### Welcome, My name is Jonisson Gomes and you are invited to meet my Git world. 🚀
 
-- 🔭 Currently I work as a Front End developer at SENAI-PE
+- 🔭 Currently I work as a Fullstack developer at SENAI-PE
 - 🌱 Aspirant to the world fullstack
-- ⚡ My main skills are with the languages: Java and JavaScript
+- ⚡ My main skills are with the languages: Java, JavaScript, Typescript, Python
 <div>
   <a href="https://www.linkedin.com/in/jonisson-gomes-pe/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
