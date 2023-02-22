@@ -1,8 +1,25 @@
 ### Welcome, My name is Jonisson Gomes and you are invited to meet my Git world. 🚀
 
 - 🔭 Currently I work as a Back-end developer at Globo
-- 🌱 Aspirant to the world fullstack
-- ⚡ My main skills are with the languages: Java, JavaScript, Typescript, Python, GoLang
+- 🌱 Aspirant to the dev fullcycle
+<p>
+I started out in the tech industry as a curious designer building web pages, sketching various static models with a few interactions. After many screens were built, the desire to bring these prototypes to life by making them dynamic pages arose.
+
+As a Full Stack Developer working on building web and mobile applications, ETLs, pipelines and architecting software, I was able to acquire the knowledge to build applications with a focus on code quality, resiliency, scalability and availability. in the following technologies and frameworks:
+- Python(Flask, Django, DjangoREST)
+- JavaScript/TypeScript(Node, NestJS, Angular, using ReactJS, ReactNative and Jest as main library for 
+ unit testing and integration)
+- Java (Sprint, SpringBoot)
+- GoLang(Echo, Gin)
+- Google Cloud Platform (Big Query, Cloud Scheduler, Cloud Run, Secret Manager, Cloud Functions)
+- MongoDB, PostgreSQL
+
+During these 3 years of experience in the market, I worked with agile methodologies such as Scrum, Kanban, XP practices (Pair Programming, Refactoring, Code Review, TDD and Continuous Integration).
+
+I consider myself a friendly, flexible person, a good active listener, who works collaboratively, with the aim of evolving by seeking and sharing knowledge, collaborating with my colleagues through technical discussions, guidance at the beginning of my career or bringing insights to projects where I work directly.
+
+I trail a future where I can be in a leadership position, sharing knowledge, impacting careers and guiding teams/companies in search of their goals.
+</p>
 <div>
   <a href="https://www.linkedin.com/in/jonisson-gomes-pe/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
